@@ -1,0 +1,11 @@
+#######################################
+# Keywords for Adafruit_SSD1306_Enhanced
+#######################################
+
+MySSD1306    KEYWORD1
+printlnCenter    KEYWORD2
+printlnWrapped   KEYWORD2
+setLineSpacing   KEYWORD2
+getLineSpacing   KEYWORD2
+setCharWidth     KEYWORD2
+setVerticalOffset KEYWORD2
